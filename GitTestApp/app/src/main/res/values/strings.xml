@@ -3,4 +3,6 @@
     <string name="colorPrimary">colorPrimary</string>
     <string name="colorPrimaryDark">colorPrimaryDark</string>
     <string name="colorAccent">colorAccent</string>
+    <string name="button1">Boton 1</string>
+    <string name="button2">Boton 2</string>
 </resources>
