@@ -14,6 +14,7 @@
         android:background="@color/colorPrimary"
         android:padding="@dimen/main_padding"
         android:text="@string/colorPrimary"
+        android:textColor="@color/white"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -28,6 +29,7 @@
         android:background="@color/colorPrimaryDark"
         android:padding="@dimen/main_padding"
         android:text="@string/colorPrimaryDark"
+        android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
@@ -42,6 +44,7 @@
         android:background="@color/colorAccent"
         android:padding="@dimen/main_padding"
         android:text="@string/colorAccent"
+        android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
